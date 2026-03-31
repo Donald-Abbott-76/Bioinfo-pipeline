@@ -16,4 +16,4 @@ Installation procedure on Linux operating system
 Open your OS; Ubuntu MobaXterm
 use the command:
 
-mamba install fastqc v.0.12.1
+mamba install fastqc v.0.12.1.
