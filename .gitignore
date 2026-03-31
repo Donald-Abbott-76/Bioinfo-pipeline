@@ -1,0 +1,34 @@
+# .gitignore should overlook these file extensions
+
+# R cache memory files
+*.Rhistory
+*.RData
+
+# Python cache memory files
+*.pyc
+_pycache_/
+
+
+# bioinfo pipeline files
+results/
+data/
+
+# log files
+*.log
+
+# temporary files
+temp/
+
+
+#large bioinformatics files
+*.fastq
+*.fastq.gz
+*.bam
+*.vcf
+*.fa
+*.fasta
+*.fna
+
+# OS files
+*.DS_Store
+*.Thumbs.db
